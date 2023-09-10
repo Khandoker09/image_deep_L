@@ -1,3 +1,8 @@
+'''
+Author: Khandoker Tanjim Ahammad
+Date: 06.09.2023
+Purpose: Run the train model of emotion detector.
+'''
 # start git
 #pipreqs --encoding utf-8 "./"
 import streamlit as st
